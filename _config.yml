@@ -6,18 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-# title: Robotic Caregiving and Human Interaction Lab
-title: RCHI Lab
+# title: Qin Wang's website
+title: Qin Wang
 
 # Your name to show in the footer
-author: RCHI Lab
+author: Bread
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://rchi-lab.github.io"
-  Members: "members"
-  Publications: "publications"
+  Home: "https://Bread-wq.github.io"
+  Projects: "Projects"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -41,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "bread.wangqin@gmail.com"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
